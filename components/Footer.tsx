@@ -10,8 +10,8 @@ export default function Footer() {
       </div>
       <div>
         {" "}
-        <Link href={"https://github.com/bix_web"}>@joshmayerr</Link> | i would
-        love your feedback/contributions!!
+        <Link href={"https://github.com/bix_web"}>github</Link> | i would love
+        your feedback/contributions!!
       </div>
     </div>
   );

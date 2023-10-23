@@ -6,7 +6,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24 font-serif tracking-tighter">
       <div>
         <div>welcome to bix.sh</div>
-        <div>the open-source "Common App" for tech internship application</div>
+        <div>the open-source "Common App" for tech internship applications</div>
       </div>
       <div>
         <Footer />
