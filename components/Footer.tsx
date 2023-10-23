@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div className="items-center text-center">
+    <div className="">
       <div>
         🛠️ in the works by{" "}
         <Link href={"https://twitter.com/jooshmayer"}>@joshmayerr</Link>{" "}
